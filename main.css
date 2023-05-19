@@ -247,7 +247,7 @@ img {
 }
 
 .button-prev {
-  display: flex;
+  display: none;
   justify-content: space-between;
   align-items: center;
 }
