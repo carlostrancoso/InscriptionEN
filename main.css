@@ -276,7 +276,7 @@ img {
 .button-next button {
   position: absolute;
   top: 50%;
-  right: 0%;
+  right: 1%;
   background: transparent; /* Set background to transparent */
   border: none; /* Remove the border */
   box-shadow: none; /* Remove the box shadow */
@@ -286,7 +286,9 @@ img {
 .button-next svg {
   height: 3.5em; /* Adjust the size of the icon */
   width: 3.5em; /* Adjust the size of the icon */
+  cursor: pointer;
 }
+
 
 .close {
   margin: 0 auto;
